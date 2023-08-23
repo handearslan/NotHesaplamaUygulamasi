@@ -25,6 +25,7 @@ public class NotHesaplamaUygulamasi {
         scanner.close();
 
 
+
         double ortalama = toplam / sinavSayisi;
         System.out.println("Sınav Ortalaması: " + ortalama);
 
