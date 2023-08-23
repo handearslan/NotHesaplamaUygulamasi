@@ -4,7 +4,8 @@ package main.java;
   Kullanıcının girdiği sayı kadar kullanıcıdan sınav notu alalım.
   Ve bütün sınav notu toplamlarını sınav sayısına bölerek ortalamayı bulalım.
   Ortalamayı kullanıcıya gösterelim ve
-  eğer not 80'in üzerindeyse konsola "Yüksek Puan" yazdıralım. */
+  eğer not 80'in üzerindeyse konsola "Yüksek Puan" yazdıralım.
+  Hande Arslan*/
 import java.util.Scanner;
 
 public class NotHesaplamaUygulamasi {
